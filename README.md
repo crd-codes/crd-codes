@@ -14,6 +14,14 @@
 * Currently preparing for **campus placements**
 
 ---
+## 🛠️ Tech Stack
+
+- **Languages:** C, C++, Java, JavaScript  
+- **Frameworks:** Spring Boot  
+- **Databases:** MongoDB, MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Linux  
+- **Concepts:** REST APIs, Data Structures & Algorithms
+---
 
 ## 📌 Projects
 
