@@ -10,7 +10,7 @@
 
 * Strong foundation in **C, C++, and Java**
 * Interested in **Data Structures & Algorithms and Backend Development**
-* Hands-on experience building **real-world system-level projects**
+* Built **real-world projects** using C, C++, and Java
 * Currently preparing for **campus placements**
 
 ---
