@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 * Strong foundation in **C, C++, and Java**
-* Interested in **Data Structures, Operating Systems, and System Programming**
+* Interested in **Data Structures & Algorithms and Backend Development**
 * Hands-on experience building **real-world system-level projects**
 * Currently preparing for **campus placements**
 
