@@ -1,7 +1,7 @@
 
 # Hi there, I'm Chakradhar Dugade 👋
 
-##🎓 MCA Student 
+## 🎓 MCA Student 
 💻 Aspiring Software Developer 
 
 ---
