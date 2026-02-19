@@ -30,6 +30,9 @@
 * **Chat Messenger** – Real-time messaging using Java Sockets
 * **Custom Virtual File System (CVFS)** – Linux-like file system simulation in C
 * **Generalised Data Structure Library** – Template-based data structures in C++
+* **Server-Client Chat App** - Messaging app using TCP and GUI
+
+
 
 ---
 
