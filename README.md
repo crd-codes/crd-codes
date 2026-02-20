@@ -27,12 +27,10 @@
 
 * **EduTrack** – Student & Classroom Management System (Java, Spring Boot, MongoDB)
 * **File Packer & Unpacker** – Secure file archiving with encryption
-* **Chat Messenger** – Real-time messaging using Java Sockets
 * **Custom Virtual File System (CVFS)** – Linux-like file system simulation in C
 * **Generalised Data Structure Library** – Template-based data structures in C++
-* **Server-Client Chat App** - Messaging app using TCP and GUI(Swing)
-
-
+* **Server-Client Chat App** - Messaging app using Java Sockets (TCP) and GUI(Swing)
+* **Concurrent-TCP-File-Transfer-Server** - Allows multiple clients to download files simultaneously using fork().
 
 ---
 
